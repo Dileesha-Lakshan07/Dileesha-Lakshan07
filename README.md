@@ -8,11 +8,8 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on **Capston Project**
-
-- 🌱 I’m currently learning **Flutter**
  ```javascript
-const DIleesha= {
+const Dileesha= {
   pronouns: "he" | "him",
   code: [C, Java],
   frontend development:[HTML, CSS],
@@ -21,11 +18,13 @@ const DIleesha= {
   backend as a services:[Firebase],
   software:[Photoshop],
   other:[GitHub],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         GitHub;
                         LinkedIN;
                       },
+ currently working on:{
+                      Caspton Project
+                        },
  challenge: "I am doing the Code challenge focused on flutter"
 }
 ```
