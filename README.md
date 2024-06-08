@@ -2,6 +2,8 @@
 <h1 align="left">Dileesha Lakshan  </h1>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Undergraduate+Student%F0%9F%8E%93;Designer%F0%9F%96%8C;Always++learning+new+things%F0%9F%94%8E)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileesha-lakshan07&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha-lakshan07" /> </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -9,8 +11,6 @@
 - 🔭 I’m currently working on **Capston Project**
 
 - 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **dlakshansamaraweera@gmail.com**
 
 
 <details>
