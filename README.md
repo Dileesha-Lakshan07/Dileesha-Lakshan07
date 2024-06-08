@@ -63,6 +63,7 @@ const DIleesha= {
 </div>
 </details>
 
+![Dileesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dileesha-Lakshan07&includeallcommits=true&show_icons=true&theme=tokyonight)
 
 
 
