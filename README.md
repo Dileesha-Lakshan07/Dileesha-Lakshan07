@@ -1,4 +1,5 @@
-<h1 align="center">Dileesha Lakshan<img src="https://img.icons8.com/?size=100&id=cRT8Mq2oGD3Y&format=png&color=000000"  width=60px height="60px"/>  </h1>
+<img align="center" src="https://img.icons8.com/?size=100&id=cRT8Mq2oGD3Y&format=png&color=000000"  width=90px height="90px"/>
+<h1 align="left">Dileesha Lakshan  </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileesha-lakshan07&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha-lakshan07" /> </p>
